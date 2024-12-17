@@ -1,0 +1,69 @@
+2024-12-13 21:01:03,374 - app.logging_config - ERROR - 测试音频文件不存在: recordings/test_audio.wav
+2024-12-13 21:01:21,006 - app.logging_config - ERROR - 测试音频文件不存在: /recordings/test_audio.wav
+2024-12-13 21:01:35,008 - app.logging_config - ERROR - 测试音频文件不存在: ./recordings/test_audio.wav
+2024-12-13 21:01:41,679 - app.logging_config - INFO - 发送音频文件到 HTTP API: ../recordings/test_audio.wav
+2024-12-13 21:01:41,693 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8888
+2024-12-13 21:01:45,770 - app.logging_config - ERROR - 与 HTTP API 通信出错: HTTPConnectionPool(host='localhost', port=8888): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FCEFDA67D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 199, in _new_conn
+    sock = connection.create_connection(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 495, in _make_request
+    conn.request(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 441, in request
+    self.endheaders()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 976, in send
+    self.connect()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 279, in connect
+    self.sock = self._new_conn()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 214, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001FCEFDA67D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8888): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FCEFDA67D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PythonPro\BroadcastRecorder\test\test_transcription.py", line 22, in test_transcribe
+    response = requests.post(HTTP_API_ENDPOINT, files=files)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8888): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FCEFDA67D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-12-13 21:01:51,631 - app.logging_config - INFO - 发送音频文件到 HTTP API: ../recordings/test_audio.wav
+2024-12-13 21:01:51,643 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:7000
+2024-12-13 21:01:55,945 - urllib3.connectionpool - DEBUG - http://localhost:7000 "POST /transcribe HTTP/11" 200 373
+2024-12-13 21:01:55,946 - app.logging_config - DEBUG - HTTP 响应状态码: 200
+2024-12-13 21:01:55,946 - app.logging_config - DEBUG - HTTP 响应内容: {"code":0,"msg":"success, transcription time: 2.05 seconds","data":"🎼我换了吧，给在身上，我要看树上嘞耿子肯定有伤害，耿子，你出来，我看你多少伤害来，我打到人了，我打到人了，你出来你出来55比赛正在进，我是第一行，我55伤害，我是第一你牛逼，你牛逼，这把你牛着，你你牛逼。😊"}
+2024-12-13 21:01:55,947 - app.logging_config - INFO - 转录结果已保存到: ../transcriptions/test_audio.wav.txt

@@ -1,0 +1,660 @@
+2024-12-16 22:24:09,282 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 22:24:09,286 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:24:09,288 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:24:09,292 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:24:10,763 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 22:24:10,764 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:24:10,765 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:24:10,769 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:24:11,108 - asyncio - DEBUG - Using selector: SelectSelector
+2024-12-16 22:24:11,195 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 22:24:11,196 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 22:24:11,196 - apscheduler.scheduler - INFO - Added job "clear_recordings_folder" to job store "default"
+2024-12-16 22:24:11,196 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2024-12-16 22:24:11,196 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:24:11,197 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:24:11,197 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 22:26:11.196166+08:00 (in 119.998998 seconds)
+2024-12-16 22:30:04,138 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 22:30:04,141 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:30:04,142 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:30:04,145 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:30:05,515 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 22:30:05,525 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:30:05,526 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:30:05,531 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:30:05,851 - asyncio - DEBUG - Using selector: SelectSelector
+2024-12-16 22:30:05,907 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 22:30:05,908 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 22:30:05,909 - apscheduler.scheduler - INFO - Added job "clear_recordings_folder" to job store "default"
+2024-12-16 22:30:05,909 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2024-12-16 22:30:05,909 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:30:05,909 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:30:05,909 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 22:32:05.908648+08:00 (in 119.999014 seconds)
+2024-12-16 22:30:39,173 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 22:30:39,173 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:30:39,174 - apscheduler.executors.default - WARNING - Run time of job "send_reminder_notification (trigger: date[2024-12-16 12:30:00 CST], next run at: 2024-12-16 12:30:00 CST)" was missed by 10:00:39.174414
+2024-12-16 22:30:39,174 - apscheduler.scheduler - INFO - Removed job 1
+2024-12-16 22:30:39,174 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:30:47,521 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 22:30:47,522 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:30:47,522 - apscheduler.scheduler - INFO - Removed job 2
+2024-12-16 22:30:47,522 - apscheduler.executors.default - WARNING - Run time of job "send_reminder_notification (trigger: date[2024-12-16 12:30:00 CST], next run at: 2024-12-16 12:30:00 CST)" was missed by 10:00:47.522698
+2024-12-16 22:30:47,522 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:32:03,821 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2024-12-16 22:32:03,821 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:32:03,821 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:45:56,641 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 22:45:56,645 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:45:56,645 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:45:56,649 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:45:58,093 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 22:45:58,105 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:45:58,106 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:45:58,110 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:45:58,454 - asyncio - DEBUG - Using selector: SelectSelector
+2024-12-16 22:45:58,525 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 22:45:58,526 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 22:45:58,527 - apscheduler.scheduler - INFO - Added job "clear_recordings_folder" to job store "default"
+2024-12-16 22:45:58,527 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2024-12-16 22:45:58,527 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:45:58,527 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:45:58,527 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 22:47:58.526797+08:00 (in 119.998984 seconds)
+2024-12-16 22:47:58,528 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:47:58,528 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:02:00], next run at: 2024-12-16 22:47:58 CST)" (scheduled at 2024-12-16 22:47:58.526797+08:00)
+2024-12-16 22:47:58,528 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 22:49:58.526797+08:00 (in 119.998453 seconds)
+2024-12-16 22:47:58,529 - app.logging_config - INFO - 开始录制音频流: https://lhttp.qingting.fm/live/339/64k.mp3
+2024-12-16 22:47:58,529 - app.logging_config - DEBUG - 执行 ffmpeg 命令: ffmpeg -y -i https://lhttp.qingting.fm/live/339/64k.mp3 -acodec pcm_s16le -ar 16000 -ac 1 -sample_fmt s16 -f wav -t 60 D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_22-47-58_1.wav
+2024-12-16 22:48:51,582 - app.logging_config - INFO - 录制已保存为 WAV: D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_22-47-58_1.wav
+2024-12-16 22:48:51,582 - app.logging_config - DEBUG - ffmpeg stdout: 
+2024-12-16 22:48:51,582 - app.logging_config - DEBUG - ffmpeg stderr: ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with clang version 19.1.4
+  configuration: --prefix=/d/bld/ffmpeg_1732155177064/_h_env/Library --cc=clang.exe --cxx=clang++.exe --nm=llvm-nm --ar=llvm-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --ld=lld-link --target-os=win64 --enable-cross-compile --toolchain=msvc --host-cc=clang.exe --extra-libs=ucrt.lib --extra-libs=vcruntime.lib --extra-libs=oldnames.lib --strip=llvm-strip --disable-stripping --host-extralibs= --disable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/d/bld/ffmpeg_1732155177064/_build_env/Library/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[mp3 @ 000002BB53061540] Skipping 58 bytes of junk at 0.
+Input #0, mp3, from 'https://lhttp.qingting.fm/live/339/64k.mp3':
+  Metadata:
+    icy-metadata    : 1
+    icy-pub         : 0
+    StreamTitle     : 
+  Duration: N/A, start: 0.000000, bitrate: 64 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 64 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to 'D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_22-47-58_1.wav':
+  Metadata:
+    icy-metadata    : 1
+    icy-pub         : 0
+    StreamTitle     : 
+    ISFT            : Lavf61.7.100
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 pcm_s16le
+size=     256KiB time=00:00:08.44 bitrate= 248.3kbits/s speed=16.9x    size=     256KiB time=00:00:09.07 bitrate= 231.2kbits/s speed=9.06x    size=     256KiB time=00:00:09.71 bitrate= 215.8kbits/s speed=6.47x    size=     256KiB time=00:00:10.10 bitrate= 207.6kbits/s speed=5.05x    size=     256KiB time=00:00:10.60 bitrate= 197.7kbits/s speed=4.24x    size=     256KiB time=00:00:10.99 bitrate= 190.8kbits/s speed=3.66x    size=     256KiB time=00:00:11.63 bitrate= 180.2kbits/s speed=3.32x    size=     256KiB time=00:00:12.14 bitrate= 172.7kbits/s speed=3.03x    size=     256KiB time=00:00:12.52 bitrate= 167.4kbits/s speed=2.78x    size=     256KiB time=00:00:13.05 bitrate= 160.6kbits/s speed=2.61x    size=     256KiB time=00:00:13.55 bitrate= 154.7kbits/s speed=2.46x    size=     256KiB time=00:00:14.06 bitrate= 149.1kbits/s speed=2.34x    size=     256KiB time=00:00:14.83 bitrate= 141.4kbits/s speed=2.28x    size=     256KiB time=00:00:15.09 bitrate= 138.9kbits/s speed=2.15x    size=     256KiB time=00:00:15.47 bitrate= 135.5kbits/s speed=2.06x    size=     256KiB time=00:00:15.98 bitrate= 131.2kbits/s speed=1.99x    size=     512KiB time=00:00:16.75 bitrate= 250.4kbits/s speed=1.97x    size=     512KiB time=00:00:17.01 bitrate= 246.5kbits/s speed=1.89x    size=     512KiB time=00:00:17.66 bitrate= 237.5kbits/s speed=1.85x    size=     512KiB time=00:00:18.16 bitrate= 230.9kbits/s speed=1.81x    size=     512KiB time=00:00:18.67 bitrate= 224.6kbits/s speed=1.77x    size=     512KiB time=00:00:19.19 bitrate= 218.5kbits/s speed=1.74x    size=     512KiB time=00:00:19.70 bitrate= 212.9kbits/s speed=1.71x    size=     512KiB time=00:00:20.20 bitrate= 207.6kbits/s speed=1.68x    size=     512KiB time=00:00:20.59 bitrate= 203.7kbits/s speed=1.64x    size=     512KiB time=00:00:21.11 bitrate= 198.6kbits/s speed=1.62x    size=     512KiB time=00:00:21.62 bitrate= 194.0kbits/s speed= 1.6x    size=     512KiB time=00:00:22.12 bitrate= 189.6kbits/s speed=1.58x    size=     512KiB time=00:00:22.65 bitrate= 185.1kbits/s speed=1.56x    size=     512KiB time=00:00:23.15 bitrate= 181.1kbits/s speed=1.54x    size=     512KiB time=00:00:23.54 bitrate= 178.2kbits/s speed=1.52x    size=     512KiB time=00:00:24.19 bitrate= 173.4kbits/s speed=1.51x    size=     768KiB time=00:00:24.81 bitrate= 253.5kbits/s speed= 1.5x    size=     768KiB time=00:00:25.34 bitrate= 248.3kbits/s speed=1.49x    size=     768KiB time=00:00:25.58 bitrate= 245.9kbits/s speed=1.46x    size=     768KiB time=00:00:26.13 bitrate= 240.7kbits/s speed=1.45x    size=     768KiB time=00:00:26.73 bitrate= 235.3kbits/s speed=1.44x    size=     768KiB time=00:00:26.99 bitrate= 233.0kbits/s speed=1.42x    size=     768KiB time=00:00:27.50 bitrate= 228.8kbits/s speed=1.41x    size=     768KiB time=00:00:28.15 bitrate= 223.5kbits/s speed=1.41x    size=     768KiB time=00:00:28.65 bitrate= 219.6kbits/s speed= 1.4x    size=     768KiB time=00:00:29.30 bitrate= 214.7kbits/s speed=1.39x    size=     768KiB time=00:00:29.68 bitrate= 211.9kbits/s speed=1.38x    size=     768KiB time=00:00:30.19 bitrate= 208.4kbits/s speed=1.37x    size=     768KiB time=00:00:30.71 bitrate= 204.8kbits/s speed=1.36x    size=     768KiB time=00:00:31.22 bitrate= 201.5kbits/s speed=1.36x    size=     768KiB time=00:00:31.72 bitrate= 198.3kbits/s speed=1.35x    size=     768KiB time=00:00:32.11 bitrate= 195.9kbits/s speed=1.34x    size=     768KiB time=00:00:32.49 bitrate= 193.6kbits/s speed=1.32x    size=    1024KiB time=00:00:33.14 bitrate= 253.1kbits/s speed=1.32x    size=    1024KiB time=00:00:33.52 bitrate= 250.2kbits/s speed=1.31x    size=    1024KiB time=00:00:34.41 bitrate= 243.7kbits/s speed=1.32x    size=    1024KiB time=00:00:34.67 bitrate= 241.9kbits/s speed=1.31x    size=    1024KiB time=00:00:35.06 bitrate= 239.2kbits/s speed= 1.3x    size=    1024KiB time=00:00:35.56 bitrate= 235.9kbits/s speed=1.29x    size=    1024KiB time=00:00:36.09 bitrate= 232.4kbits/s speed=1.29x    size=    1024KiB time=00:00:36.71 bitrate= 228.5kbits/s speed=1.29x    size=    1024KiB time=00:00:37.24 bitrate= 225.2kbits/s speed=1.28x    size=    1024KiB time=00:00:37.75 bitrate= 222.2kbits/s speed=1.28x    size=    1024KiB time=00:00:38.01 bitrate= 220.7kbits/s speed=1.27x    size=    1024KiB time=00:00:38.63 bitrate= 217.1kbits/s speed=1.26x    size=    1024KiB time=00:00:39.28 bitrate= 213.5kbits/s speed=1.27x    size=    1024KiB time=00:00:39.79 bitrate= 210.8kbits/s speed=1.26x    size=    1024KiB time=00:00:40.17 bitrate= 208.8kbits/s speed=1.25x    size=    1024KiB time=00:00:40.70 bitrate= 206.1kbits/s speed=1.25x    size=    1280KiB time=00:00:41.08 bitrate= 255.2kbits/s speed=1.24x    size=    1280KiB time=00:00:41.59 bitrate= 252.1kbits/s speed=1.24x    size=    1280KiB time=00:00:42.09 bitrate= 249.1kbits/s speed=1.24x    size=    1280KiB time=00:00:42.62 bitrate= 246.0kbits/s speed=1.23x    size=    1280KiB time=00:00:43.12 bitrate= 243.1kbits/s speed=1.23x    size=    1280KiB time=00:00:43.63 bitrate= 240.3kbits/s speed=1.23x    size=    1280KiB time=00:00:44.39 bitrate= 236.2kbits/s speed=1.23x    size=    1280KiB time=00:00:44.54 bitrate= 235.4kbits/s speed=1.22x    size=    1280KiB time=00:00:45.04 bitrate= 232.8kbits/s speed=1.22x    size=    1280KiB time=00:00:45.55 bitrate= 230.2kbits/s speed=1.21x    size=    1280KiB time=00:00:46.07 bitrate= 227.6kbits/s speed=1.21x    size=    1280KiB time=00:00:46.84 bitrate= 223.8kbits/s speed=1.22x    size=    1280KiB time=00:00:47.23 bitrate= 222.0kbits/s speed=1.21x    size=    1280KiB time=00:00:47.73 bitrate= 219.7kbits/s speed=1.21x    size=    1280KiB time=00:00:47.99 bitrate= 218.5kbits/s speed= 1.2x    size=    1280KiB time=00:00:48.76 bitrate= 215.0kbits/s speed= 1.2x    size=    1536KiB time=00:00:49.39 bitrate= 254.8kbits/s speed= 1.2x    size=    1536KiB time=00:00:49.77 bitrate= 252.8kbits/s speed= 1.2x    size=    1536KiB time=00:00:50.30 bitrate= 250.1kbits/s speed= 1.2x    size=    1536KiB time=00:00:50.68 bitrate= 248.2kbits/s speed=1.19x    size=    1536KiB time=00:00:51.19 bitrate= 245.8kbits/s speed=1.19x    size=    1536KiB time=00:00:51.69 bitrate= 243.4kbits/s speed=1.19x    size=    1536KiB time=00:00:52.07 bitrate= 241.6kbits/s speed=1.18x    size=    1536KiB time=00:00:52.60 bitrate= 239.2kbits/s speed=1.18x    size=    1536KiB time=00:00:53.11 bitrate= 236.9kbits/s speed=1.18x    size=    1536KiB time=00:00:53.61 bitrate= 234.7kbits/s speed=1.18x    size=    1536KiB time=00:00:54.52 bitrate= 230.8kbits/s speed=1.18x    size=    1536KiB time=00:00:54.91 bitrate= 229.2kbits/s speed=1.18x    size=    1536KiB time=00:00:55.15 bitrate= 228.2kbits/s speed=1.17x    size=    1536KiB time=00:00:55.79 bitrate= 225.5kbits/s speed=1.17x    size=    1536KiB time=00:00:56.06 bitrate= 224.4kbits/s speed=1.17x    size=    1536KiB time=00:00:56.56 bitrate= 222.4kbits/s speed=1.16x    size=    1536KiB time=00:00:57.07 bitrate= 220.5kbits/s speed=1.16x    size=    1792KiB time=00:00:57.83 bitrate= 253.8kbits/s speed=1.17x    size=    1792KiB time=00:00:58.22 bitrate= 252.1kbits/s speed=1.16x    size=    1792KiB time=00:00:58.75 bitrate= 249.9kbits/s speed=1.16x    size=    1792KiB time=00:00:59.37 bitrate= 247.2kbits/s speed=1.16x    size=    1792KiB time=00:00:59.75 bitrate= 245.7kbits/s speed=1.16x    [out#0/wav @ 000002BB53069D40] video:0KiB audio:1875KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.004063%
+size=    1875KiB time=00:01:00.00 bitrate= 256.0kbits/s speed=1.15x    
+
+2024-12-16 22:48:51,584 - app.logging_config - INFO - 发送音频文件到 HTTP API: D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_22-47-58_1.wav
+2024-12-16 22:48:51,590 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:7000
+2024-12-16 22:48:55,599 - app.logging_config - ERROR - 与 HTTP API 通信出错: HTTPConnectionPool(host='localhost', port=7000): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029D9D852EC0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 199, in _new_conn
+    sock = connection.create_connection(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 495, in _make_request
+    conn.request(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 441, in request
+    self.endheaders()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 976, in send
+    self.connect()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 279, in connect
+    self.sock = self._new_conn()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 214, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000029D9D852EC0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=7000): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029D9D852EC0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PythonPro\BroadcastRecorder\app\transcriber.py", line 27, in send_http_transcription
+    response = requests.post(HTTP_API_ENDPOINT, files=files)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=7000): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029D9D852EC0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-12-16 22:48:55,616 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:02:00], next run at: 2024-12-16 22:49:58 CST)" executed successfully
+2024-12-16 22:49:58,529 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:49:58,529 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 22:51:58.526797+08:00 (in 119.997547 seconds)
+2024-12-16 22:49:58,529 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:02:00], next run at: 2024-12-16 22:51:58 CST)" (scheduled at 2024-12-16 22:49:58.526797+08:00)
+2024-12-16 22:49:58,529 - app.logging_config - INFO - 开始录制音频流: https://lhttp.qingting.fm/live/339/64k.mp3
+2024-12-16 22:49:58,529 - app.logging_config - DEBUG - 执行 ffmpeg 命令: ffmpeg -y -i https://lhttp.qingting.fm/live/339/64k.mp3 -acodec pcm_s16le -ar 16000 -ac 1 -sample_fmt s16 -f wav -t 60 D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_22-49-58_1.wav
+2024-12-16 22:50:18,606 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 22:50:18,608 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:50:18,608 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:50:18,612 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:50:20,006 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 22:50:20,009 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:50:20,010 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:50:20,014 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:50:20,326 - asyncio - DEBUG - Using selector: SelectSelector
+2024-12-16 22:50:20,387 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 22:50:20,387 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 22:50:20,388 - apscheduler.scheduler - INFO - Added job "clear_recordings_folder" to job store "default"
+2024-12-16 22:50:20,388 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2024-12-16 22:50:20,388 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:50:20,388 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:50:20,388 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 22:52:20.387151+08:00 (in 119.998994 seconds)
+2024-12-16 22:51:25,113 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2024-12-16 22:51:25,113 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:51:25,113 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:58:52,349 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 22:58:52,353 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:58:52,354 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:58:52,357 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:58:53,745 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 22:58:53,755 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:58:53,756 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:58:53,762 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:58:54,096 - asyncio - DEBUG - Using selector: SelectSelector
+2024-12-16 22:58:54,159 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 22:58:54,160 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 22:58:54,160 - apscheduler.scheduler - INFO - Added job "clear_recordings_folder" to job store "default"
+2024-12-16 22:58:54,160 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2024-12-16 22:58:54,160 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 22:58:54,160 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:58:54,161 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 23:00:54.160758+08:00 (in 119.998944 seconds)
+2024-12-16 22:59:47,323 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 22:59:47,323 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:59:47,324 - apscheduler.executors.default - WARNING - Run time of job "send_reminder_notification (trigger: date[2024-12-15 12:30:00 CST], next run at: 2024-12-15 12:30:00 CST)" was missed by 1 day, 10:29:47.324123
+2024-12-16 22:59:47,324 - apscheduler.scheduler - INFO - Removed job 3
+2024-12-16 22:59:47,325 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 22:59:52,683 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 22:59:52,684 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 22:59:52,684 - apscheduler.scheduler - INFO - Removed job 4
+2024-12-16 22:59:52,684 - apscheduler.executors.default - WARNING - Run time of job "send_reminder_notification (trigger: date[2024-12-15 12:30:00 CST], next run at: 2024-12-15 12:30:00 CST)" was missed by 1 day, 10:29:52.684217
+2024-12-16 22:59:52,685 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 23:00:00,766 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:00:00,766 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:00:00,766 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 48599.233002 seconds)
+2024-12-16 23:00:54,161 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:00:54,161 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:02:00], next run at: 2024-12-16 23:00:54 CST)" (scheduled at 2024-12-16 23:00:54.160758+08:00)
+2024-12-16 23:00:54,161 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 23:02:54.160758+08:00 (in 119.999088 seconds)
+2024-12-16 23:00:54,162 - app.logging_config - INFO - 开始录制音频流: https://lhttp.qingting.fm/live/339/64k.mp3
+2024-12-16 23:00:54,162 - app.logging_config - DEBUG - 执行 ffmpeg 命令: ffmpeg -y -i https://lhttp.qingting.fm/live/339/64k.mp3 -acodec pcm_s16le -ar 16000 -ac 1 -sample_fmt s16 -f wav -t 60 D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-00-54_1.wav
+2024-12-16 23:11:15,210 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 23:11:15,213 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:11:15,214 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:11:15,220 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 23:11:15,221 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:11:15,227 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:11:15,232 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 47924.767655 seconds)
+2024-12-16 23:11:16,591 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 23:11:16,594 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:11:16,595 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:11:16,599 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 23:11:16,600 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:11:16,607 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:11:16,613 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 47923.386440 seconds)
+2024-12-16 23:11:16,956 - asyncio - DEBUG - Using selector: SelectSelector
+2024-12-16 23:11:17,035 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 23:11:17,036 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 23:11:17,037 - apscheduler.scheduler - INFO - Added job "clear_recordings_folder" to job store "default"
+2024-12-16 23:11:17,038 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2024-12-16 23:11:17,038 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:11:17,038 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:11:17,039 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 23:13:17.036119+08:00 (in 119.996570 seconds)
+2024-12-16 23:13:12,219 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2024-12-16 23:13:12,219 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:13:12,219 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 23:20:28,056 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 23:20:28,059 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:20:28,060 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:20:28,065 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 23:20:28,065 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:20:28,072 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:20:28,081 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 47371.918724 seconds)
+2024-12-16 23:20:29,469 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 23:20:29,473 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:20:29,474 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:20:29,479 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 23:20:29,479 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:20:29,480 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:20:29,491 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 47370.508587 seconds)
+2024-12-16 23:20:29,811 - asyncio - DEBUG - Using selector: SelectSelector
+2024-12-16 23:20:29,876 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 23:20:29,877 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 23:20:29,878 - apscheduler.scheduler - INFO - Added job "clear_recordings_folder" to job store "default"
+2024-12-16 23:20:29,878 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2024-12-16 23:20:29,878 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:20:29,878 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:20:29,878 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 23:22:29.877220+08:00 (in 119.999014 seconds)
+2024-12-16 23:22:29,879 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:22:29,879 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:02:00], next run at: 2024-12-16 23:22:29 CST)" (scheduled at 2024-12-16 23:22:29.877220+08:00)
+2024-12-16 23:22:29,879 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 23:24:29.877220+08:00 (in 119.997931 seconds)
+2024-12-16 23:22:29,880 - app.logging_config - INFO - 开始录制音频流: https://lhttp.qingting.fm/live/339/64k.mp3
+2024-12-16 23:22:29,880 - app.logging_config - DEBUG - 执行 ffmpeg 命令: ffmpeg -y -i https://lhttp.qingting.fm/live/339/64k.mp3 -acodec pcm_s16le -ar 16000 -ac 1 -sample_fmt s16 -f wav -t 60 D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-22-29_1.wav
+2024-12-16 23:27:06,662 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 23:27:06,664 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:27:06,666 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:27:06,670 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 23:27:06,671 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:27:06,671 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:27:06,680 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 46973.319511 seconds)
+2024-12-16 23:27:08,093 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 23:27:08,097 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:27:08,098 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:27:08,101 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 23:27:08,102 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:27:08,107 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:27:08,113 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 46971.886033 seconds)
+2024-12-16 23:27:08,420 - asyncio - DEBUG - Using selector: SelectSelector
+2024-12-16 23:27:08,488 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 23:27:08,490 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 23:27:08,490 - apscheduler.scheduler - INFO - Added job "clear_recordings_folder" to job store "default"
+2024-12-16 23:27:08,490 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2024-12-16 23:27:08,490 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:27:08,490 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:27:08,491 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 23:29:08.490024+08:00 (in 119.998489 seconds)
+2024-12-16 23:27:22,066 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:27:22,066 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:27:22,067 - apscheduler.executors.default - WARNING - Run time of job "send_reminder_notification (trigger: date[2024-12-15 12:30:00 CST], next run at: 2024-12-15 12:30:00 CST)" was missed by 1 day, 10:57:22.067342
+2024-12-16 23:27:22,076 - apscheduler.scheduler - INFO - Removed job 6
+2024-12-16 23:27:22,077 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 46957.922792 seconds)
+2024-12-16 23:27:34,589 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:27:34,590 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:27:34,590 - apscheduler.scheduler - INFO - Removed job 7
+2024-12-16 23:27:34,590 - apscheduler.executors.default - WARNING - Run time of job "send_reminder_notification (trigger: date[2024-12-15 17:30:00 CST], next run at: 2024-12-15 17:30:00 CST)" was missed by 1 day, 5:57:34.590872
+2024-12-16 23:27:34,590 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 46945.409128 seconds)
+2024-12-16 23:34:49,941 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 23:34:49,944 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:34:49,944 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:34:49,947 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 23:34:49,948 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:34:49,954 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:34:49,957 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 46510.042191 seconds)
+2024-12-16 23:34:51,337 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 23:34:51,340 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:34:51,341 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:34:51,345 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 23:34:51,345 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:34:51,350 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:34:51,357 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 46508.642121 seconds)
+2024-12-16 23:34:51,674 - asyncio - DEBUG - Using selector: SelectSelector
+2024-12-16 23:34:51,753 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 23:34:51,754 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 23:34:51,754 - apscheduler.scheduler - INFO - Added job "clear_recordings_folder" to job store "default"
+2024-12-16 23:34:51,754 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2024-12-16 23:34:51,754 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:34:51,754 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:34:51,755 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 23:36:51.753178+08:00 (in 119.998008 seconds)
+2024-12-16 23:45:55,823 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 23:45:55,826 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:45:55,827 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:45:55,830 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 23:45:55,831 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:45:55,837 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:45:55,840 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 45844.159209 seconds)
+2024-12-16 23:45:57,241 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-16 23:45:57,252 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:45:57,253 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:45:57,257 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-16 23:45:57,259 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:45:57,264 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:45:57,269 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 45842.730940 seconds)
+2024-12-16 23:45:57,604 - asyncio - DEBUG - Using selector: SelectSelector
+2024-12-16 23:45:57,671 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 23:45:57,672 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-16 23:45:57,672 - apscheduler.scheduler - INFO - Added job "clear_recordings_folder" to job store "default"
+2024-12-16 23:45:57,672 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2024-12-16 23:45:57,672 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-16 23:45:57,672 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:45:57,673 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 23:47:57.672393+08:00 (in 119.998983 seconds)
+2024-12-16 23:47:57,673 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:47:57,673 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:02:00], next run at: 2024-12-16 23:47:57 CST)" (scheduled at 2024-12-16 23:47:57.672393+08:00)
+2024-12-16 23:47:57,673 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 23:49:57.672393+08:00 (in 119.999141 seconds)
+2024-12-16 23:47:57,674 - app.logging_config - INFO - 开始录制音频流: https://lhttp.qingting.fm/live/339/64k.mp3
+2024-12-16 23:47:57,674 - app.logging_config - DEBUG - 执行 ffmpeg 命令: ffmpeg -y -i https://lhttp.qingting.fm/live/339/64k.mp3 -acodec pcm_s16le -ar 16000 -ac 1 -sample_fmt s16 -f wav -t 60 D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-47-57_1.wav
+2024-12-16 23:48:50,508 - app.logging_config - INFO - 录制已保存为 WAV: D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-47-57_1.wav
+2024-12-16 23:48:50,508 - app.logging_config - DEBUG - ffmpeg stdout: 
+2024-12-16 23:48:50,508 - app.logging_config - DEBUG - ffmpeg stderr: ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with clang version 19.1.4
+  configuration: --prefix=/d/bld/ffmpeg_1732155177064/_h_env/Library --cc=clang.exe --cxx=clang++.exe --nm=llvm-nm --ar=llvm-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --ld=lld-link --target-os=win64 --enable-cross-compile --toolchain=msvc --host-cc=clang.exe --extra-libs=ucrt.lib --extra-libs=vcruntime.lib --extra-libs=oldnames.lib --strip=llvm-strip --disable-stripping --host-extralibs= --disable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/d/bld/ffmpeg_1732155177064/_build_env/Library/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[mp3 @ 0000015982D03B00] Skipping 130 bytes of junk at 0.
+Input #0, mp3, from 'https://lhttp.qingting.fm/live/339/64k.mp3':
+  Metadata:
+    icy-metadata    : 1
+    icy-pub         : 0
+    StreamTitle     : 
+  Duration: N/A, start: 0.000000, bitrate: 64 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 64 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to 'D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-47-57_1.wav':
+  Metadata:
+    icy-metadata    : 1
+    icy-pub         : 0
+    StreamTitle     : 
+    ISFT            : Lavf61.7.100
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 pcm_s16le
+size=     256KiB time=00:00:08.83 bitrate= 237.5kbits/s speed=17.6x    size=     256KiB time=00:00:09.21 bitrate= 227.6kbits/s speed=9.21x    size=     256KiB time=00:00:09.83 bitrate= 213.1kbits/s speed=6.55x    size=     256KiB time=00:00:10.60 bitrate= 197.7kbits/s speed= 5.3x    size=     256KiB time=00:00:10.75 bitrate= 195.1kbits/s speed= 4.3x    size=     256KiB time=00:00:11.13 bitrate= 188.3kbits/s speed=3.71x    size=     256KiB time=00:00:11.75 bitrate= 178.3kbits/s speed=3.36x    size=     256KiB time=00:00:12.14 bitrate= 172.7kbits/s speed=3.03x    size=     256KiB time=00:00:12.67 bitrate= 165.5kbits/s speed=2.81x    size=     256KiB time=00:00:13.17 bitrate= 159.2kbits/s speed=2.63x    size=     256KiB time=00:00:13.67 bitrate= 153.3kbits/s speed=2.48x    size=     256KiB time=00:00:14.20 bitrate= 147.6kbits/s speed=2.37x    size=     256KiB time=00:00:14.83 bitrate= 141.4kbits/s speed=2.28x    size=     256KiB time=00:00:15.47 bitrate= 135.5kbits/s speed=2.21x    size=     256KiB time=00:00:15.59 bitrate= 134.4kbits/s speed=2.08x    size=     256KiB time=00:00:16.24 bitrate= 129.1kbits/s speed=2.03x    size=     512KiB time=00:00:16.75 bitrate= 250.4kbits/s speed=1.97x    size=     512KiB time=00:00:17.27 bitrate= 242.7kbits/s speed=1.92x    size=     512KiB time=00:00:17.78 bitrate= 235.9kbits/s speed=1.87x    size=     512KiB time=00:00:18.28 bitrate= 229.4kbits/s speed=1.83x    size=     512KiB time=00:00:18.81 bitrate= 222.9kbits/s speed=1.79x    size=     512KiB time=00:00:19.19 bitrate= 218.5kbits/s speed=1.74x    size=     512KiB time=00:00:19.70 bitrate= 212.9kbits/s speed=1.71x    size=     512KiB time=00:00:20.59 bitrate= 203.7kbits/s speed=1.71x    size=     512KiB time=00:00:20.85 bitrate= 201.1kbits/s speed=1.67x    size=     512KiB time=00:00:21.23 bitrate= 197.5kbits/s speed=1.63x    size=     512KiB time=00:00:21.74 bitrate= 192.9kbits/s speed=1.61x    size=     512KiB time=00:00:22.12 bitrate= 189.6kbits/s speed=1.58x    size=     512KiB time=00:00:22.65 bitrate= 185.1kbits/s speed=1.56x    size=     512KiB time=00:00:23.42 bitrate= 179.1kbits/s speed=1.56x    size=     512KiB time=00:00:23.92 bitrate= 175.3kbits/s speed=1.54x    size=     512KiB time=00:00:24.19 bitrate= 173.4kbits/s speed=1.51x    size=     768KiB time=00:00:24.81 bitrate= 253.5kbits/s speed= 1.5x    size=     768KiB time=00:00:25.58 bitrate= 245.9kbits/s speed= 1.5x    size=     768KiB time=00:00:25.58 bitrate= 245.9kbits/s speed=1.46x    size=     768KiB time=00:00:26.11 bitrate= 241.0kbits/s speed=1.45x    size=     768KiB time=00:00:26.73 bitrate= 235.3kbits/s speed=1.44x    size=     768KiB time=00:00:27.26 bitrate= 230.8kbits/s speed=1.43x    size=     768KiB time=00:00:27.76 bitrate= 226.6kbits/s speed=1.42x    size=     768KiB time=00:00:28.27 bitrate= 222.5kbits/s speed=1.41x    size=     768KiB time=00:00:28.65 bitrate= 219.6kbits/s speed= 1.4x    size=     768KiB time=00:00:29.18 bitrate= 215.6kbits/s speed=1.39x    size=     768KiB time=00:00:29.80 bitrate= 211.1kbits/s speed=1.38x    size=     768KiB time=00:00:30.57 bitrate= 205.8kbits/s speed=1.39x    size=     768KiB time=00:00:30.71 bitrate= 204.8kbits/s speed=1.36x    size=     768KiB time=00:00:31.22 bitrate= 201.5kbits/s speed=1.36x    size=     768KiB time=00:00:31.72 bitrate= 198.3kbits/s speed=1.35x    size=     768KiB time=00:00:32.25 bitrate= 195.1kbits/s speed=1.34x    size=     768KiB time=00:00:32.75 bitrate= 192.1kbits/s speed=1.34x    size=    1024KiB time=00:00:33.26 bitrate= 252.2kbits/s speed=1.33x    size=    1024KiB time=00:00:33.64 bitrate= 249.3kbits/s speed=1.32x    size=    1024KiB time=00:00:34.17 bitrate= 245.5kbits/s speed=1.31x    size=    1024KiB time=00:00:34.67 bitrate= 241.9kbits/s speed=1.31x    size=    1024KiB time=00:00:35.44 bitrate= 236.7kbits/s speed=1.31x    size=    1024KiB time=00:00:35.83 bitrate= 234.1kbits/s speed= 1.3x    size=    1024KiB time=00:00:36.33 bitrate= 230.9kbits/s speed= 1.3x    size=    1024KiB time=00:00:36.59 bitrate= 229.2kbits/s speed=1.28x    size=    1024KiB time=00:00:37.24 bitrate= 225.2kbits/s speed=1.28x    size=    1024KiB time=00:00:37.75 bitrate= 222.2kbits/s speed=1.28x    size=    1024KiB time=00:00:38.25 bitrate= 219.3kbits/s speed=1.27x    size=    1024KiB time=00:00:38.78 bitrate= 216.3kbits/s speed=1.27x    size=    1024KiB time=00:00:39.28 bitrate= 213.5kbits/s speed=1.27x    size=    1024KiB time=00:00:39.79 bitrate= 210.8kbits/s speed=1.26x    size=    1024KiB time=00:00:40.55 bitrate= 206.8kbits/s speed=1.27x    size=    1024KiB time=00:00:40.70 bitrate= 206.1kbits/s speed=1.25x    size=    1280KiB time=00:00:41.20 bitrate= 254.5kbits/s speed=1.25x    size=    1280KiB time=00:00:41.85 bitrate= 250.5kbits/s speed=1.25x    size=    1280KiB time=00:00:42.23 bitrate= 248.2kbits/s speed=1.24x    size=    1280KiB time=00:00:43.00 bitrate= 243.8kbits/s speed=1.24x    size=    1280KiB time=00:00:43.12 bitrate= 243.1kbits/s speed=1.23x    size=    1280KiB time=00:00:43.89 bitrate= 238.9kbits/s speed=1.23x    size=    1280KiB time=00:00:44.15 bitrate= 237.5kbits/s speed=1.22x    size=    1280KiB time=00:00:44.92 bitrate= 233.4kbits/s speed=1.23x    size=    1280KiB time=00:00:45.43 bitrate= 230.8kbits/s speed=1.23x    size=    1280KiB time=00:00:45.93 bitrate= 228.3kbits/s speed=1.22x    size=    1280KiB time=00:00:46.31 bitrate= 226.4kbits/s speed=1.22x    size=    1280KiB time=00:00:46.58 bitrate= 225.1kbits/s speed=1.21x    size=    1280KiB time=00:00:47.35 bitrate= 221.4kbits/s speed=1.21x    size=    1280KiB time=00:00:47.85 bitrate= 219.1kbits/s speed=1.21x    size=    1280KiB time=00:00:48.23 bitrate= 217.4kbits/s speed= 1.2x    size=    1280KiB time=00:00:48.88 bitrate= 214.5kbits/s speed=1.21x    size=    1536KiB time=00:00:49.27 bitrate= 255.4kbits/s speed= 1.2x    size=    1536KiB time=00:00:49.91 bitrate= 252.1kbits/s speed= 1.2x    size=    1536KiB time=00:00:50.42 bitrate= 249.5kbits/s speed= 1.2x    size=    1536KiB time=00:00:50.80 bitrate= 247.7kbits/s speed=1.19x    size=    1536KiB time=00:00:51.19 bitrate= 245.8kbits/s speed=1.19x    size=    1536KiB time=00:00:51.83 bitrate= 242.7kbits/s speed=1.19x    size=    1536KiB time=00:00:52.22 bitrate= 240.9kbits/s speed=1.19x    size=    1536KiB time=00:00:52.72 bitrate= 238.6kbits/s speed=1.18x    size=    1536KiB time=00:00:53.23 bitrate= 236.4kbits/s speed=1.18x    size=    1536KiB time=00:00:53.75 bitrate= 234.1kbits/s speed=1.18x    size=    1536KiB time=00:00:54.38 bitrate= 231.4kbits/s speed=1.18x    size=    1536KiB time=00:00:54.91 bitrate= 229.2kbits/s speed=1.18x    size=    1536KiB time=00:00:55.53 bitrate= 226.6kbits/s speed=1.18x    size=    1536KiB time=00:00:55.67 bitrate= 226.0kbits/s speed=1.17x    size=    1536KiB time=00:00:56.30 bitrate= 223.5kbits/s speed=1.17x    size=    1536KiB time=00:00:56.83 bitrate= 221.4kbits/s speed=1.17x    size=    1536KiB time=00:00:57.07 bitrate= 220.5kbits/s speed=1.16x    size=    1792KiB time=00:00:57.83 bitrate= 253.8kbits/s speed=1.17x    size=    1792KiB time=00:00:58.36 bitrate= 251.5kbits/s speed=1.17x    size=    1792KiB time=00:00:58.87 bitrate= 249.4kbits/s speed=1.16x    size=    1792KiB time=00:00:59.25 bitrate= 247.7kbits/s speed=1.16x    size=    1792KiB time=00:00:59.90 bitrate= 245.1kbits/s speed=1.16x    [out#0/wav @ 0000015984CFFB40] video:0KiB audio:1875KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.004063%
+size=    1875KiB time=00:01:00.00 bitrate= 256.0kbits/s speed=1.16x    
+
+2024-12-16 23:48:50,514 - app.logging_config - INFO - 发送音频文件到 HTTP API: D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-47-57_1.wav
+2024-12-16 23:48:50,518 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:7000
+2024-12-16 23:48:54,528 - app.logging_config - ERROR - 与 HTTP API 通信出错: HTTPConnectionPool(host='localhost', port=7000): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025C138666E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 199, in _new_conn
+    sock = connection.create_connection(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 495, in _make_request
+    conn.request(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 441, in request
+    self.endheaders()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 976, in send
+    self.connect()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 279, in connect
+    self.sock = self._new_conn()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 214, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000025C138666E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=7000): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025C138666E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PythonPro\BroadcastRecorder\app\transcriber.py", line 27, in send_http_transcription
+    response = requests.post(HTTP_API_ENDPOINT, files=files)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=7000): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025C138666E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-12-16 23:48:54,536 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:02:00], next run at: 2024-12-16 23:49:57 CST)" executed successfully
+2024-12-16 23:49:57,674 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:49:57,674 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 23:51:57.672393+08:00 (in 119.997992 seconds)
+2024-12-16 23:49:57,674 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:02:00], next run at: 2024-12-16 23:51:57 CST)" (scheduled at 2024-12-16 23:49:57.672393+08:00)
+2024-12-16 23:49:57,675 - app.logging_config - INFO - 开始录制音频流: https://lhttp.qingting.fm/live/339/64k.mp3
+2024-12-16 23:49:57,675 - app.logging_config - DEBUG - 执行 ffmpeg 命令: ffmpeg -y -i https://lhttp.qingting.fm/live/339/64k.mp3 -acodec pcm_s16le -ar 16000 -ac 1 -sample_fmt s16 -f wav -t 60 D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-49-57_1.wav
+2024-12-16 23:50:50,568 - app.logging_config - INFO - 录制已保存为 WAV: D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-49-57_1.wav
+2024-12-16 23:50:50,568 - app.logging_config - DEBUG - ffmpeg stdout: 
+2024-12-16 23:50:50,568 - app.logging_config - DEBUG - ffmpeg stderr: ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with clang version 19.1.4
+  configuration: --prefix=/d/bld/ffmpeg_1732155177064/_h_env/Library --cc=clang.exe --cxx=clang++.exe --nm=llvm-nm --ar=llvm-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --ld=lld-link --target-os=win64 --enable-cross-compile --toolchain=msvc --host-cc=clang.exe --extra-libs=ucrt.lib --extra-libs=vcruntime.lib --extra-libs=oldnames.lib --strip=llvm-strip --disable-stripping --host-extralibs= --disable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/d/bld/ffmpeg_1732155177064/_build_env/Library/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[mp3 @ 0000025E10576340] Skipping 174 bytes of junk at 0.
+Input #0, mp3, from 'https://lhttp.qingting.fm/live/339/64k.mp3':
+  Metadata:
+    icy-metadata    : 1
+    icy-pub         : 0
+    StreamTitle     : 
+  Duration: N/A, start: 0.000000, bitrate: 64 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 64 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to 'D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-49-57_1.wav':
+  Metadata:
+    icy-metadata    : 1
+    icy-pub         : 0
+    StreamTitle     : 
+    ISFT            : Lavf61.7.100
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 pcm_s16le
+size=     256KiB time=00:00:08.83 bitrate= 237.5kbits/s speed=17.7x    size=     256KiB time=00:00:09.21 bitrate= 227.6kbits/s speed=9.21x    size=     256KiB time=00:00:09.71 bitrate= 215.8kbits/s speed=6.47x    size=     256KiB time=00:00:10.36 bitrate= 202.3kbits/s speed=5.18x    size=     256KiB time=00:00:10.75 bitrate= 195.1kbits/s speed= 4.3x    size=     256KiB time=00:00:11.13 bitrate= 188.3kbits/s speed=3.71x    size=     256KiB time=00:00:11.75 bitrate= 178.3kbits/s speed=3.36x    size=     256KiB time=00:00:12.28 bitrate= 170.7kbits/s speed=3.07x    size=     256KiB time=00:00:12.79 bitrate= 164.0kbits/s speed=2.84x    size=     256KiB time=00:00:13.17 bitrate= 159.2kbits/s speed=2.63x    size=     256KiB time=00:00:13.67 bitrate= 153.3kbits/s speed=2.48x    size=     256KiB time=00:00:14.20 bitrate= 147.6kbits/s speed=2.37x    size=     256KiB time=00:00:14.83 bitrate= 141.4kbits/s speed=2.28x    size=     256KiB time=00:00:15.47 bitrate= 135.5kbits/s speed=2.21x    size=     256KiB time=00:00:15.59 bitrate= 134.4kbits/s speed=2.08x    size=     256KiB time=00:00:16.12 bitrate= 130.0kbits/s speed=2.01x    size=     512KiB time=00:00:16.75 bitrate= 250.4kbits/s speed=1.97x    size=     512KiB time=00:00:17.01 bitrate= 246.5kbits/s speed=1.89x    size=     512KiB time=00:00:17.51 bitrate= 239.4kbits/s speed=1.84x    size=     512KiB time=00:00:18.16 bitrate= 230.9kbits/s speed=1.81x    size=     512KiB time=00:00:18.67 bitrate= 224.6kbits/s speed=1.78x    size=     512KiB time=00:00:19.19 bitrate= 218.5kbits/s speed=1.74x    size=     512KiB time=00:00:19.70 bitrate= 212.9kbits/s speed=1.71x    size=     512KiB time=00:00:20.35 bitrate= 206.1kbits/s speed=1.69x    size=     512KiB time=00:00:20.73 bitrate= 202.3kbits/s speed=1.66x    size=     512KiB time=00:00:21.23 bitrate= 197.5kbits/s speed=1.63x    size=     512KiB time=00:00:21.74 bitrate= 192.9kbits/s speed=1.61x    size=     512KiB time=00:00:22.27 bitrate= 188.3kbits/s speed=1.59x    size=     512KiB time=00:00:22.77 bitrate= 184.2kbits/s speed=1.57x    size=     512KiB time=00:00:23.15 bitrate= 181.1kbits/s speed=1.54x    size=     512KiB time=00:00:23.92 bitrate= 175.3kbits/s speed=1.54x    size=     512KiB time=00:00:24.19 bitrate= 173.4kbits/s speed=1.51x    size=     768KiB time=00:00:24.69 bitrate= 254.8kbits/s speed= 1.5x    size=     768KiB time=00:00:25.46 bitrate= 247.1kbits/s speed= 1.5x    size=     768KiB time=00:00:25.58 bitrate= 245.9kbits/s speed=1.46x    size=     768KiB time=00:00:26.11 bitrate= 241.0kbits/s speed=1.45x    size=     768KiB time=00:00:26.61 bitrate= 236.4kbits/s speed=1.44x    size=     768KiB time=00:00:27.26 bitrate= 230.8kbits/s speed=1.43x    size=     768KiB time=00:00:27.76 bitrate= 226.6kbits/s speed=1.42x    size=     768KiB time=00:00:28.27 bitrate= 222.5kbits/s speed=1.41x    size=     768KiB time=00:00:28.79 bitrate= 218.5kbits/s speed= 1.4x    size=     768KiB time=00:00:29.30 bitrate= 214.7kbits/s speed=1.39x    size=     768KiB time=00:00:29.80 bitrate= 211.1kbits/s speed=1.38x    size=     768KiB time=00:00:30.57 bitrate= 205.8kbits/s speed=1.39x    size=     768KiB time=00:00:30.83 bitrate= 204.0kbits/s speed=1.37x    size=     768KiB time=00:00:31.22 bitrate= 201.5kbits/s speed=1.36x    size=     768KiB time=00:00:31.72 bitrate= 198.3kbits/s speed=1.35x    size=     768KiB time=00:00:32.25 bitrate= 195.1kbits/s speed=1.34x    size=     768KiB time=00:00:32.75 bitrate= 192.1kbits/s speed=1.34x    size=    1024KiB time=00:00:33.14 bitrate= 253.1kbits/s speed=1.32x    size=    1024KiB time=00:00:33.91 bitrate= 247.4kbits/s speed=1.33x    size=    1024KiB time=00:00:34.17 bitrate= 245.5kbits/s speed=1.31x    size=    1024KiB time=00:00:34.67 bitrate= 241.9kbits/s speed=1.31x    size=    1024KiB time=00:00:35.44 bitrate= 236.7kbits/s speed=1.31x    size=    1024KiB time=00:00:35.83 bitrate= 234.1kbits/s speed= 1.3x    size=    1024KiB time=00:00:36.09 bitrate= 232.4kbits/s speed=1.29x    size=    1024KiB time=00:00:36.59 bitrate= 229.2kbits/s speed=1.28x    size=    1024KiB time=00:00:37.24 bitrate= 225.2kbits/s speed=1.28x    size=    1024KiB time=00:00:37.75 bitrate= 222.2kbits/s speed=1.28x    size=    1024KiB time=00:00:38.25 bitrate= 219.3kbits/s speed=1.27x    size=    1024KiB time=00:00:38.78 bitrate= 216.3kbits/s speed=1.27x    size=    1024KiB time=00:00:39.28 bitrate= 213.5kbits/s speed=1.27x    size=    1024KiB time=00:00:39.79 bitrate= 210.8kbits/s speed=1.26x    size=    1024KiB time=00:00:40.43 bitrate= 207.4kbits/s speed=1.26x    size=    1024KiB time=00:00:40.70 bitrate= 206.1kbits/s speed=1.25x    size=    1280KiB time=00:00:41.08 bitrate= 255.2kbits/s speed=1.24x    size=    1280KiB time=00:00:41.71 bitrate= 251.4kbits/s speed=1.24x    size=    1280KiB time=00:00:42.09 bitrate= 249.1kbits/s speed=1.24x    size=    1280KiB time=00:00:42.62 bitrate= 246.0kbits/s speed=1.23x    size=    1280KiB time=00:00:43.12 bitrate= 243.1kbits/s speed=1.23x    size=    1280KiB time=00:00:43.63 bitrate= 240.3kbits/s speed=1.23x    size=    1280KiB time=00:00:44.15 bitrate= 237.5kbits/s speed=1.23x    size=    1280KiB time=00:00:44.66 bitrate= 234.8kbits/s speed=1.22x    size=    1280KiB time=00:00:45.55 bitrate= 230.2kbits/s speed=1.23x    size=    1280KiB time=00:00:45.81 bitrate= 228.9kbits/s speed=1.22x    size=    1280KiB time=00:00:46.31 bitrate= 226.4kbits/s speed=1.22x    size=    1280KiB time=00:00:46.84 bitrate= 223.8kbits/s speed=1.22x    size=    1280KiB time=00:00:47.08 bitrate= 222.7kbits/s speed=1.21x    size=    1280KiB time=00:00:47.85 bitrate= 219.1kbits/s speed=1.21x    size=    1280KiB time=00:00:48.23 bitrate= 217.4kbits/s speed= 1.2x    size=    1280KiB time=00:00:48.76 bitrate= 215.0kbits/s speed= 1.2x    size=    1536KiB time=00:00:49.27 bitrate= 255.4kbits/s speed= 1.2x    size=    1536KiB time=00:00:49.77 bitrate= 252.8kbits/s speed= 1.2x    size=    1536KiB time=00:00:50.42 bitrate= 249.5kbits/s speed= 1.2x    size=    1536KiB time=00:00:50.68 bitrate= 248.2kbits/s speed=1.19x    size=    1536KiB time=00:00:51.19 bitrate= 245.8kbits/s speed=1.19x    size=    1536KiB time=00:00:51.69 bitrate= 243.4kbits/s speed=1.19x    size=    1536KiB time=00:00:52.34 bitrate= 240.4kbits/s speed=1.19x    size=    1536KiB time=00:00:52.72 bitrate= 238.6kbits/s speed=1.18x    size=    1536KiB time=00:00:53.23 bitrate= 236.4kbits/s speed=1.18x    size=    1536KiB time=00:00:53.75 bitrate= 234.1kbits/s speed=1.18x    size=    1536KiB time=00:00:54.26 bitrate= 231.9kbits/s speed=1.18x    size=    1536KiB time=00:00:54.91 bitrate= 229.2kbits/s speed=1.18x    size=    1536KiB time=00:00:55.53 bitrate= 226.6kbits/s speed=1.18x    size=    1536KiB time=00:00:55.67 bitrate= 226.0kbits/s speed=1.17x    size=    1536KiB time=00:00:56.30 bitrate= 223.5kbits/s speed=1.17x    size=    1536KiB time=00:00:56.83 bitrate= 221.4kbits/s speed=1.17x    size=    1536KiB time=00:00:57.33 bitrate= 219.5kbits/s speed=1.17x    size=    1792KiB time=00:00:57.83 bitrate= 253.8kbits/s speed=1.17x    size=    1792KiB time=00:00:58.36 bitrate= 251.5kbits/s speed=1.17x    size=    1792KiB time=00:00:58.87 bitrate= 249.4kbits/s speed=1.16x    size=    1792KiB time=00:00:59.25 bitrate= 247.7kbits/s speed=1.16x    size=    1792KiB time=00:00:59.75 bitrate= 245.7kbits/s speed=1.16x    [out#0/wav @ 0000025E127D5540] video:0KiB audio:1875KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.004063%
+size=    1875KiB time=00:01:00.00 bitrate= 256.0kbits/s speed=1.16x    
+
+2024-12-16 23:50:50,573 - app.logging_config - INFO - 发送音频文件到 HTTP API: D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-49-57_1.wav
+2024-12-16 23:50:50,575 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:7000
+2024-12-16 23:50:54,582 - app.logging_config - ERROR - 与 HTTP API 通信出错: HTTPConnectionPool(host='localhost', port=7000): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025C1396C340>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 199, in _new_conn
+    sock = connection.create_connection(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 495, in _make_request
+    conn.request(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 441, in request
+    self.endheaders()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 976, in send
+    self.connect()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 279, in connect
+    self.sock = self._new_conn()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 214, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000025C1396C340>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=7000): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025C1396C340>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PythonPro\BroadcastRecorder\app\transcriber.py", line 27, in send_http_transcription
+    response = requests.post(HTTP_API_ENDPOINT, files=files)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=7000): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025C1396C340>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-12-16 23:50:54,586 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:02:00], next run at: 2024-12-16 23:51:57 CST)" executed successfully
+2024-12-16 23:51:57,673 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:51:57,673 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-16 23:53:57.672393+08:00 (in 119.999236 seconds)
+2024-12-16 23:51:57,673 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:02:00], next run at: 2024-12-16 23:53:57 CST)" (scheduled at 2024-12-16 23:51:57.672393+08:00)
+2024-12-16 23:51:57,674 - app.logging_config - INFO - 开始录制音频流: https://lhttp.qingting.fm/live/339/64k.mp3
+2024-12-16 23:51:57,674 - app.logging_config - DEBUG - 执行 ffmpeg 命令: ffmpeg -y -i https://lhttp.qingting.fm/live/339/64k.mp3 -acodec pcm_s16le -ar 16000 -ac 1 -sample_fmt s16 -f wav -t 60 D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-51-57_1.wav
+2024-12-16 23:52:50,574 - app.logging_config - INFO - 录制已保存为 WAV: D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-51-57_1.wav
+2024-12-16 23:52:50,574 - app.logging_config - DEBUG - ffmpeg stdout: 
+2024-12-16 23:52:50,574 - app.logging_config - DEBUG - ffmpeg stderr: ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with clang version 19.1.4
+  configuration: --prefix=/d/bld/ffmpeg_1732155177064/_h_env/Library --cc=clang.exe --cxx=clang++.exe --nm=llvm-nm --ar=llvm-ar --disable-doc --enable-openssl --enable-demuxer=dash --enable-hardcoded-tables --enable-libfreetype --enable-libharfbuzz --enable-libfontconfig --enable-libopenh264 --enable-libdav1d --ld=lld-link --target-os=win64 --enable-cross-compile --toolchain=msvc --host-cc=clang.exe --extra-libs=ucrt.lib --extra-libs=vcruntime.lib --extra-libs=oldnames.lib --strip=llvm-strip --disable-stripping --host-extralibs= --disable-libopenvino --enable-gpl --enable-libx264 --enable-libx265 --enable-libaom --enable-libsvtav1 --enable-libxml2 --enable-pic --enable-shared --disable-static --enable-version3 --enable-zlib --enable-libopus --enable-librsvg --pkg-config=/d/bld/ffmpeg_1732155177064/_build_env/Library/bin/pkg-config
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[mp3 @ 0000025DB43E6C80] Skipping 21 bytes of junk at 0.
+Input #0, mp3, from 'https://lhttp.qingting.fm/live/339/64k.mp3':
+  Metadata:
+    icy-metadata    : 1
+    icy-pub         : 0
+    StreamTitle     : 
+  Duration: N/A, start: 0.000000, bitrate: 64 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 64 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, wav, to 'D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-51-57_1.wav':
+  Metadata:
+    icy-metadata    : 1
+    icy-pub         : 0
+    StreamTitle     : 
+    ISFT            : Lavf61.7.100
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 pcm_s16le
+size=     256KiB time=00:00:08.68 bitrate= 241.4kbits/s speed=17.4x    size=     256KiB time=00:00:09.21 bitrate= 227.6kbits/s speed=9.21x    size=     256KiB time=00:00:09.71 bitrate= 215.8kbits/s speed=6.47x    size=     256KiB time=00:00:10.48 bitrate= 200.0kbits/s speed=5.24x    size=     256KiB time=00:00:10.75 bitrate= 195.1kbits/s speed= 4.3x    size=     256KiB time=00:00:11.13 bitrate= 188.3kbits/s speed=3.71x    size=     256KiB time=00:00:11.63 bitrate= 180.2kbits/s speed=3.32x    size=     256KiB time=00:00:12.14 bitrate= 172.7kbits/s speed=3.03x    size=     256KiB time=00:00:12.67 bitrate= 165.5kbits/s speed=2.81x    size=     256KiB time=00:00:13.17 bitrate= 159.2kbits/s speed=2.63x    size=     256KiB time=00:00:13.55 bitrate= 154.7kbits/s speed=2.46x    size=     256KiB time=00:00:14.32 bitrate= 146.4kbits/s speed=2.38x    size=     256KiB time=00:00:14.59 bitrate= 143.7kbits/s speed=2.24x    size=     256KiB time=00:00:15.35 bitrate= 136.5kbits/s speed=2.19x    size=     256KiB time=00:00:15.86 bitrate= 132.2kbits/s speed=2.11x    size=     256KiB time=00:00:16.24 bitrate= 129.1kbits/s speed=2.03x    size=     512KiB time=00:00:16.75 bitrate= 250.4kbits/s speed=1.97x    size=     512KiB time=00:00:17.27 bitrate= 242.7kbits/s speed=1.92x    size=     512KiB time=00:00:17.78 bitrate= 235.9kbits/s speed=1.87x    size=     512KiB time=00:00:18.16 bitrate= 230.9kbits/s speed=1.81x    size=     512KiB time=00:00:18.81 bitrate= 222.9kbits/s speed=1.79x    size=     512KiB time=00:00:19.19 bitrate= 218.5kbits/s speed=1.74x    size=     512KiB time=00:00:19.70 bitrate= 212.9kbits/s speed=1.71x    size=     512KiB time=00:00:20.35 bitrate= 206.1kbits/s speed=1.69x    size=     512KiB time=00:00:20.73 bitrate= 202.3kbits/s speed=1.66x    size=     512KiB time=00:00:21.11 bitrate= 198.6kbits/s speed=1.62x    size=     512KiB time=00:00:21.62 bitrate= 194.0kbits/s speed= 1.6x    size=     512KiB time=00:00:22.12 bitrate= 189.6kbits/s speed=1.58x    size=     512KiB time=00:00:22.65 bitrate= 185.1kbits/s speed=1.56x    size=     512KiB time=00:00:23.15 bitrate= 181.1kbits/s speed=1.54x    size=     512KiB time=00:00:23.66 bitrate= 177.3kbits/s speed=1.52x    size=     512KiB time=00:00:24.31 bitrate= 172.5kbits/s speed=1.52x    size=     768KiB time=00:00:24.81 bitrate= 253.5kbits/s speed= 1.5x    size=     768KiB time=00:00:25.46 bitrate= 247.1kbits/s speed= 1.5x    size=     768KiB time=00:00:25.84 bitrate= 243.4kbits/s speed=1.48x    size=     768KiB time=00:00:26.23 bitrate= 239.8kbits/s speed=1.46x    size=     768KiB time=00:00:26.73 bitrate= 235.3kbits/s speed=1.44x    size=     768KiB time=00:00:27.26 bitrate= 230.8kbits/s speed=1.43x    size=     768KiB time=00:00:27.76 bitrate= 226.6kbits/s speed=1.42x    size=     768KiB time=00:00:28.27 bitrate= 222.5kbits/s speed=1.41x    size=     768KiB time=00:00:28.79 bitrate= 218.5kbits/s speed= 1.4x    size=     768KiB time=00:00:29.18 bitrate= 215.6kbits/s speed=1.39x    size=     768KiB time=00:00:29.68 bitrate= 211.9kbits/s speed=1.38x    size=     768KiB time=00:00:30.33 bitrate= 207.4kbits/s speed=1.38x    size=     768KiB time=00:00:30.71 bitrate= 204.8kbits/s speed=1.36x    size=     768KiB time=00:00:31.22 bitrate= 201.5kbits/s speed=1.36x    size=     768KiB time=00:00:31.72 bitrate= 198.3kbits/s speed=1.35x    size=     768KiB time=00:00:32.11 bitrate= 195.9kbits/s speed=1.34x    size=     768KiB time=00:00:32.75 bitrate= 192.1kbits/s speed=1.34x    size=    1024KiB time=00:00:33.14 bitrate= 253.1kbits/s speed=1.32x    size=    1024KiB time=00:00:33.64 bitrate= 249.3kbits/s speed=1.32x    size=    1024KiB time=00:00:34.17 bitrate= 245.5kbits/s speed=1.31x    size=    1024KiB time=00:00:34.55 bitrate= 242.7kbits/s speed= 1.3x    size=    1024KiB time=00:00:35.44 bitrate= 236.7kbits/s speed=1.31x    size=    1024KiB time=00:00:35.83 bitrate= 234.1kbits/s speed= 1.3x    size=    1024KiB time=00:00:36.33 bitrate= 230.9kbits/s speed= 1.3x    size=    1024KiB time=00:00:36.71 bitrate= 228.5kbits/s speed=1.29x    size=    1024KiB time=00:00:37.24 bitrate= 225.2kbits/s speed=1.28x    size=    1024KiB time=00:00:37.87 bitrate= 221.5kbits/s speed=1.28x    size=    1024KiB time=00:00:38.25 bitrate= 219.3kbits/s speed=1.27x    size=    1024KiB time=00:00:38.78 bitrate= 216.3kbits/s speed=1.27x    size=    1024KiB time=00:00:39.28 bitrate= 213.5kbits/s speed=1.27x    size=    1024KiB time=00:00:39.79 bitrate= 210.8kbits/s speed=1.26x    size=    1024KiB time=00:00:40.31 bitrate= 208.1kbits/s speed=1.26x    size=    1024KiB time=00:00:40.70 bitrate= 206.1kbits/s speed=1.25x    size=    1280KiB time=00:00:41.32 bitrate= 253.7kbits/s speed=1.25x    size=    1280KiB time=00:00:41.71 bitrate= 251.4kbits/s speed=1.24x    size=    1280KiB time=00:00:42.23 bitrate= 248.2kbits/s speed=1.24x    size=    1280KiB time=00:00:42.74 bitrate= 245.3kbits/s speed=1.24x    size=    1280KiB time=00:00:43.39 bitrate= 241.7kbits/s speed=1.24x    size=    1280KiB time=00:00:43.89 bitrate= 238.9kbits/s speed=1.24x    size=    1280KiB time=00:00:44.15 bitrate= 237.5kbits/s speed=1.23x    size=    1280KiB time=00:00:44.66 bitrate= 234.8kbits/s speed=1.22x    size=    1280KiB time=00:00:45.43 bitrate= 230.8kbits/s speed=1.23x    size=    1280KiB time=00:00:45.81 bitrate= 228.9kbits/s speed=1.22x    size=    1280KiB time=00:00:46.07 bitrate= 227.6kbits/s speed=1.21x    size=    1280KiB time=00:00:46.58 bitrate= 225.1kbits/s speed=1.21x    size=    1280KiB time=00:00:47.23 bitrate= 222.0kbits/s speed=1.21x    size=    1280KiB time=00:00:47.85 bitrate= 219.1kbits/s speed=1.21x    size=    1280KiB time=00:00:48.23 bitrate= 217.4kbits/s speed= 1.2x    size=    1280KiB time=00:00:48.76 bitrate= 215.0kbits/s speed= 1.2x    size=    1280KiB time=00:00:49.15 bitrate= 213.3kbits/s speed= 1.2x    size=    1536KiB time=00:00:49.65 bitrate= 253.4kbits/s speed= 1.2x    size=    1536KiB time=00:00:50.30 bitrate= 250.1kbits/s speed= 1.2x    size=    1536KiB time=00:00:50.80 bitrate= 247.7kbits/s speed=1.19x    size=    1536KiB time=00:00:51.19 bitrate= 245.8kbits/s speed=1.19x    size=    1536KiB time=00:00:51.69 bitrate= 243.4kbits/s speed=1.19x    size=    1536KiB time=00:00:52.22 bitrate= 240.9kbits/s speed=1.19x    size=    1536KiB time=00:00:52.72 bitrate= 238.6kbits/s speed=1.18x    size=    1536KiB time=00:00:53.11 bitrate= 236.9kbits/s speed=1.18x    size=    1536KiB time=00:00:53.87 bitrate= 233.5kbits/s speed=1.18x    size=    1536KiB time=00:00:54.14 bitrate= 232.4kbits/s speed=1.18x    size=    1536KiB time=00:00:54.64 bitrate= 230.3kbits/s speed=1.17x    size=    1536KiB time=00:00:55.41 bitrate= 227.1kbits/s speed=1.18x    size=    1536KiB time=00:00:55.79 bitrate= 225.5kbits/s speed=1.17x    size=    1536KiB time=00:00:56.30 bitrate= 223.5kbits/s speed=1.17x    size=    1536KiB time=00:00:56.83 bitrate= 221.4kbits/s speed=1.17x    size=    1536KiB time=00:00:57.33 bitrate= 219.5kbits/s speed=1.17x    size=    1792KiB time=00:00:57.83 bitrate= 253.8kbits/s speed=1.17x    size=    1792KiB time=00:00:58.22 bitrate= 252.1kbits/s speed=1.16x    size=    1792KiB time=00:00:58.75 bitrate= 249.9kbits/s speed=1.16x    size=    1792KiB time=00:00:59.25 bitrate= 247.7kbits/s speed=1.16x    size=    1792KiB time=00:00:59.75 bitrate= 245.7kbits/s speed=1.16x    [out#0/wav @ 0000025DB655E940] video:0KiB audio:1875KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.004063%
+size=    1875KiB time=00:01:00.00 bitrate= 256.0kbits/s speed=1.16x    
+
+2024-12-16 23:52:50,580 - app.logging_config - INFO - 发送音频文件到 HTTP API: D:\PythonPro\BroadcastRecorder\recordings\2024-12-16_23-51-57_1.wav
+2024-12-16 23:52:50,582 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:7000
+2024-12-16 23:52:54,585 - app.logging_config - ERROR - 与 HTTP API 通信出错: HTTPConnectionPool(host='localhost', port=7000): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025C13866E30>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 199, in _new_conn
+    sock = connection.create_connection(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 495, in _make_request
+    conn.request(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 441, in request
+    self.endheaders()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\http\client.py", line 976, in send
+    self.connect()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 279, in connect
+    self.sock = self._new_conn()
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connection.py", line 214, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000025C13866E30>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=7000): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025C13866E30>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PythonPro\BroadcastRecorder\app\transcriber.py", line 27, in send_http_transcription
+    response = requests.post(HTTP_API_ENDPOINT, files=files)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Anaconda3\envs\broadcast_recorder_env\lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=7000): Max retries exceeded with url: /transcribe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025C13866E30>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-12-16 23:52:54,588 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:02:00], next run at: 2024-12-16 23:53:57 CST)" executed successfully
+2024-12-16 23:53:24,818 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-16 23:53:24,819 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-16 23:53:24,820 - apscheduler.executors.default - WARNING - Run time of job "send_reminder_notification (trigger: date[2024-12-15 12:30:00 CST], next run at: 2024-12-15 12:30:00 CST)" was missed by 1 day, 11:23:24.820697
+2024-12-16 23:53:24,820 - apscheduler.scheduler - INFO - Removed job 8
+2024-12-16 23:53:24,821 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 45395.178347 seconds)

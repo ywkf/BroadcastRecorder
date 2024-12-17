@@ -1,0 +1,80 @@
+2024-12-17 00:00:54,623 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-17 00:00:54,625 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-17 00:00:54,625 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 00:00:54,629 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-17 00:00:54,630 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-17 00:00:54,635 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 00:00:54,639 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 44945.360718 seconds)
+2024-12-17 00:00:56,059 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-17 00:00:56,060 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-17 00:00:56,061 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 00:00:56,067 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-17 00:00:56,067 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-17 00:00:56,073 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 00:00:56,081 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 12:30:00+08:00 (in 44943.918018 seconds)
+2024-12-17 00:00:56,396 - asyncio - DEBUG - Using selector: SelectSelector
+2024-12-17 00:00:56,467 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-17 00:00:56,467 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-17 00:00:56,468 - apscheduler.scheduler - INFO - Added job "clear_recordings_folder" to job store "default"
+2024-12-17 00:00:56,468 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2024-12-17 00:00:56,468 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-17 00:00:56,468 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 00:00:56,469 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 00:02:56.467458+08:00 (in 119.997467 seconds)
+2024-12-17 14:10:43,070 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-17 14:10:43,072 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-17 14:10:43,073 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 14:10:43,076 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-17 14:10:43,076 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-17 14:10:43,077 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 14:10:43,086 - apscheduler.executors.default - WARNING - Run time of job "send_reminder_notification (trigger: date[2024-12-17 12:30:00 CST], next run at: 2024-12-17 12:30:00 CST)" was missed by 1:40:43.086532
+2024-12-17 14:10:43,086 - apscheduler.scheduler - INFO - Removed job 5
+2024-12-17 14:10:43,086 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-17 14:10:44,137 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-17 14:10:44,139 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-17 14:10:44,140 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 14:10:44,143 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-17 14:10:44,144 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-17 14:10:44,144 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 14:10:44,152 - apscheduler.executors.default - WARNING - Run time of job "send_reminder_notification (trigger: date[2024-12-17 12:30:00 CST], next run at: 2024-12-17 12:30:00 CST)" was missed by 1:40:44.152570
+2024-12-17 14:10:44,152 - apscheduler.scheduler - INFO - Removed job 5
+2024-12-17 14:10:44,152 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-17 14:10:44,389 - asyncio - DEBUG - Using selector: SelectSelector
+2024-12-17 14:10:44,436 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-17 14:10:44,437 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-17 14:10:44,437 - apscheduler.scheduler - INFO - Added job "clear_recordings_folder" to job store "default"
+2024-12-17 14:10:44,437 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2024-12-17 14:10:44,437 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-17 14:10:44,438 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 14:10:44,438 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 14:12:44.437298+08:00 (in 119.999248 seconds)
+2024-12-17 14:11:07,957 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2024-12-17 14:11:07,957 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 14:11:07,957 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-17 14:17:33,631 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-17 14:17:33,632 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-17 14:17:33,633 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 14:17:33,636 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-17 14:17:33,637 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-17 14:17:33,642 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 14:17:33,644 - apscheduler.executors.default - WARNING - Run time of job "send_reminder_notification (trigger: date[2024-12-17 12:30:00 CST], next run at: 2024-12-17 12:30:00 CST)" was missed by 1:47:33.644265
+2024-12-17 14:17:33,644 - apscheduler.scheduler - INFO - Removed job 5
+2024-12-17 14:17:33,644 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-17 14:17:34,622 - tzlocal - DEBUG - Looking up time zone info from registry
+2024-12-17 14:17:34,624 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-17 14:17:34,624 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 14:17:34,627 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-17 14:17:34,627 - apscheduler.scheduler - INFO - Added job "send_reminder_notification" to job store "default"
+2024-12-17 14:17:34,633 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 14:17:34,634 - apscheduler.executors.default - WARNING - Run time of job "send_reminder_notification (trigger: date[2024-12-17 12:30:00 CST], next run at: 2024-12-17 12:30:00 CST)" was missed by 1:47:34.634823
+2024-12-17 14:17:34,634 - apscheduler.scheduler - INFO - Removed job 5
+2024-12-17 14:17:34,634 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2024-12-17 14:17:34,871 - asyncio - DEBUG - Using selector: SelectSelector
+2024-12-17 14:17:34,915 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-17 14:17:34,916 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-17 14:17:34,916 - apscheduler.scheduler - INFO - Added job "clear_recordings_folder" to job store "default"
+2024-12-17 14:17:34,916 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2024-12-17 14:17:34,916 - apscheduler.scheduler - INFO - Scheduler started
+2024-12-17 14:17:34,916 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 14:17:34,916 - apscheduler.scheduler - DEBUG - Next wakeup is due at 2024-12-17 14:19:34.916582+08:00 (in 120.000000 seconds)
+2024-12-17 14:18:46,691 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2024-12-17 14:18:46,691 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2024-12-17 14:18:46,691 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added

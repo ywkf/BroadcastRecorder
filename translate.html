@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>BroadcastRecorder GUI</title>
+</head>
+<body>
+    <h1>BroadcastRecorder GUI</h1>
+
+    <!-- 音频文件部分省略，见上文 -->
+
+    <h2>文本文件列表</h2>
+    <ul id="transcriptions-list"></ul>
+
+    <h2>文本内容</h2>
+    <pre id="text-content"></pre>
+
+    <script>
+        async function fetchTranscriptions() {
+            const response = await fetch('http://localhost:8000/api/transcriptions');
+            const transcriptions = await response.json();
+            const list = document.getElementById('transcriptions-list');
+            transcriptions.forEach(file => {
+                const listItem = document.createElement('li');
+                const link = document.createElement('a');
+                link.href = '#';
+                link.textContent = `${file.filename} (${file.upload_time})`;
+                link.onclick = () => fetchTranscription(file.filename);
+                listItem.appendChild(link);
+                list.appendChild(listItem);
+            });
+        }
+
+        async function fetchTranscription(filename) {
+            const response = await fetch(`http://localhost:8000/api/transcriptions/${filename}`);
+            const transcription = await response.json();
+            const content = document.getElementById('text-content');
+            content.textContent = transcription.content;
+        }
+
+        // 初始化
+        fetchTranscriptions();
+    </script>
+</body>
+</html>

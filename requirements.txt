@@ -1,0 +1,10 @@
+pyaudio
+speechrecognition
+schedule
+requests
+flask
+pydub
+SQLAlchemy
+APScheduler
+pydantic
+

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>BroadcastRecorder GUI</title>
+</head>
+<body>
+    <h1>BroadcastRecorder GUI</h1>
+
+    <h2>音频文件列表</h2>
+    <ul id="recordings-list"></ul>
+
+    <h2>音频播放器</h2>
+    <audio id="audio-player" controls></audio>
+
+    <script>
+        async function fetchRecordings() {
+            const response = await fetch('http://localhost:8000/api/recordings');
+            const recordings = await response.json();
+            const list = document.getElementById('recordings-list');
+            recordings.forEach(file => {
+                const listItem = document.createElement('li');
+                const link = document.createElement('a');
+                link.href = '#';
+                link.textContent = `${file.filename} (${file.upload_time})`;
+                link.onclick = () => playAudio(file.filename);
+                listItem.appendChild(link);
+                list.appendChild(listItem);
+            });
+        }
+
+        function playAudio(filename) {
+            const player = document.getElementById('audio-player');
+            player.src = `http://localhost:8000/api/recordings/${filename}`;
+            player.play();
+        }
+
+        // 初始化
+        fetchRecordings();
+    </script>
+</body>
+</html>

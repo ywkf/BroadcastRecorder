@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>BroadcastRecorder GUI</title>
+</head>
+<body>
+    <h1>BroadcastRecorder GUI</h1>
+
+    <!-- 音频和文本文件部分省略，见上文 -->
+
+    <h2>实时语音识别结果</h2>
+    <div id="realtime-results"></div>
+
+    <script>
+        const ws = new WebSocket('ws://localhost:27000/ws/transcribe');
+
+        ws.onopen = () => {
+            console.log('WebSocket 连接已打开');
+        };
+
+        ws.onmessage = (event) => {
+            const data = JSON.parse(event.data);
+            const results = document.getElementById('realtime-results');
+            const p = document.createElement('p');
+            p.textContent = data.transcription;
+            results.appendChild(p);
+        };
+
+        ws.onclose = () => {
+            console.log('WebSocket 连接已关闭');
+        };
+
+        ws.onerror = (error) => {
+            console.error('WebSocket 错误:', error);
+        };
+    </script>
+</body>
+</html>
